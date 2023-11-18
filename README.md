@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @NinjaWeird650
+- 👋 Hi, I’m @NinjaWeird
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning how to code.
